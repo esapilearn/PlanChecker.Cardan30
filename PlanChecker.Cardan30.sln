@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanChecker.Cardan30", "PlanChecker.Cardan30.csproj", "{5F0448D6-0BDF-4544-992A-28A7ED8D5CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0448D6-0BDF-4544-992A-28A7ED8D5CC8}.Debug|x64.ActiveCfg = Debug|x64
+		{5F0448D6-0BDF-4544-992A-28A7ED8D5CC8}.Debug|x64.Build.0 = Debug|x64
+		{5F0448D6-0BDF-4544-992A-28A7ED8D5CC8}.Release|x64.ActiveCfg = Release|x64
+		{5F0448D6-0BDF-4544-992A-28A7ED8D5CC8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C168168-6956-46C0-9C55-9DC5F49F8743}
+	EndGlobalSection
+EndGlobal
